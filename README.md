@@ -5,7 +5,7 @@
 > desc: I program as a hobby, just as I listen to music out of a passion 4 it :))
 ```
 ```ansi
-[31mMOREINFO[0m
+[31m MOREINFO [0m
 alias: nikocrispis
 core: html, java, python and css [WIP]
 status: offline (probably wearing headphones)
