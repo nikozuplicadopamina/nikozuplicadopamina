@@ -5,8 +5,9 @@
 > desc: I program as a hobby, just as I listen to music out of a passion 4 it :))
 ```
 ```diff
-- MOREINFO
-alias: nikocrispis
-core: html, java, python and css [WIP]
-status: offline (probably wearing headphones)
+- MOREINFO - 
+  alias: nikocrispis
+  core: html, java, python and css [WIP]
++ status: 🐌 (probably wearing headphones)
++ proyects: MusicOs [https://github.com/nikozuplicadopamina/win_Albums.wav]
 ```
