@@ -8,6 +8,7 @@
 - MOREINFO - 
   alias: nikocrispis
   core: html, java, python and css [WIP]
-+ status: 🐌 (probably wearing headphones)
-+ proyects: MusicOs [https://github.com/nikozuplicadopamina/win_Albums.wav]
++ status: (*-*) (probably wearing headphones)
+! proyects:
+!   [] MusicOs
 ```
