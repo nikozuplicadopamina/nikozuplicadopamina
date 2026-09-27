@@ -6,7 +6,7 @@
 ```
 ```diff
 - MOREINFO
--alias:- nikocrispis
+-alias: nikocrispis
 core: html, java, python and css [WIP]
 status: offline (probably wearing headphones)
 ```
