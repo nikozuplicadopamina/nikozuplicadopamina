@@ -1,13 +1,11 @@
 ## nikob4t
 
 ```bash
-$ cat about-me.txt
 > user: nikob4t
-> status: listening to something right now
-> fuel: music (literally live by it)
+> desc: I program as a hobby, just as I listen to music out of a passion for it.
 ```
 ```yaml
-alias: nikob4t
-core: code & sound
+alias: nikocrispis
+core: html, java, python and css [WIP]
 status: offline (probably wearing headphones)
 ```
