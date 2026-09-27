@@ -6,8 +6,8 @@
 ```
 ```diff
 - MOREINFO - 
-  alias: nikocrispis
-  core: html, java, python and css [WIP]
+! alias: nikocrispis
+! core: html, java, python and css [WIP]
 + status: (*-*) (probably wearing headphones)
 ! proyects:
 !   [] MusicOs
