@@ -10,13 +10,12 @@ alias: nikob4t
 core: code & sound
 status: offline (probably wearing headphones)
 
-```
-
+```mardown
 ### //
 
-Music first. Code is just what happens in between playlists.
-
-* 🎧 [Last.fm / current rotation]
-* ⚡ [Random repos & experiments]
+  Music first. Code is just what happens in between playlists.
+  
+  * 🎧 [Spotify listener]
+  * ⚡ [#MORIRJOVENVIVIRFAST]
 
 ```
